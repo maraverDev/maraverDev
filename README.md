@@ -2,8 +2,6 @@
 
 ### Enterprise-focused Full Stack Developer building production-ready web and POS systems.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maraverDev&label=Profile views&color=0e75b6&style=flat" alt="maraverDev" /> </p>
-
 - 🔭 I'm currently working on **Kong Consulting - Enterprise applications, POS / TPV systems, and custom software solutions focused on stability, performance, and long-term maintainability.**
 
 - 🌱 I'm currently learning **Advanced .NET architectures
