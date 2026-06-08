@@ -23,7 +23,7 @@ Angular and React in real-world projects**
 
 - ⚡ Fun fact **I want to build my own tech business someday. Until then, I quietly over-engineer side projects like they already have paying customers.**
 
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1_5P4F7xr0x1YcFcQsnbK_IgPsqErbz4r/view?usp=drive_link](https://drive.google.com/file/d/1_5P4F7xr0x1YcFcQsnbK_IgPsqErbz4r/view?usp=drive_link)**
+- 📄 Know about my experiences **[https://drive.google.com/file/d/1PT17vvNcd6nRyarrIeoAsYCygkGabEi0/view?usp=sharing](My CV)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
